@@ -3,6 +3,7 @@
     "name": "NLWHeat",
     "slug": "nlwheat",
     "version": "1.0.0",
+    "scheme": "nlwheat",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
