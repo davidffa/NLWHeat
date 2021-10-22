@@ -19,6 +19,10 @@ Projeto realizado na trilha <strong>Impulse</strong> da Next Level Week#7 da [Ro
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.dev/)
 
+- [Elixir](https://elixir-lang.org/)
+- [Phoenix](https://www.phoenixframework.org/)
+- [PostgreSQL](https://www.postgresql.org/)
+
 ## 🚀 Instalação
 
 ```sh
@@ -68,6 +72,10 @@ Project developed on <strong>Impulse</strong> trail of Next Level Week#7 from [R
 - [ReactJS](https://reactjs.org/)
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.dev/)
+
+- [Elixir](https://elixir-lang.org/)
+- [Phoenix](https://www.phoenixframework.org/)
+- [PostgreSQL](https://www.postgresql.org/)
 
 ## 🚀 Installation
 
